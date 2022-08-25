@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891757671401",
+    "project_id": "coursemate-84f39",
+    "storage_bucket": "coursemate-84f39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891757671401:android:ef2634224c26515a03d178",
+        "android_client_info": {
+          "package_name": "com.example.center"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891757671401-uoitloh5uc8lchcoen794veeg28f0jv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZthWXg30Y7Kti90loAjpeMRKJRhIZTyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891757671401-uoitloh5uc8lchcoen794veeg28f0jv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
